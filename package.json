@@ -1,0 +1,24 @@
+{
+  "name": "bmicalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dominic52/bmiCalculator.git"
+  },
+  "author": "Dominic Yang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dominic52/bmiCalculator/issues"
+  },
+  "homepage": "https://github.com/Dominic52/bmiCalculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  }
+}
